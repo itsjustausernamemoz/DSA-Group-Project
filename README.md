@@ -10,6 +10,8 @@ To access the project just simple type in the browser: "localhost/music_player/i
 Make sure that the servers are running (wamp or xamp)
 The application add and remove tracks from playlist
 
+NB: THE PROJECT WAS DONE IN JAVASCRIPT
+
 MODULARIZATION
 Main Algorithm
 The “Main line Logic” of the playlist algorithm is to play the selected audio track by executing the desired code of the algorithm.
