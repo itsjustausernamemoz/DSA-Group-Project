@@ -38,3 +38,30 @@ Output: track name, artist and duration.
 
 Due to network problems between Miss Hangara who compiled the documentation and Mr Muukweli who had the application files the exhange of bothe the documentation within parties became a chalenge which led to Miss Hangara to upload the documentation and Mr Muukweli to upload the project files, the said files cann be found in this README file on lines 33 and 34. 
 (https://github.com/itsjustausernamemoz/DSA-Group-Project/files/9824885/music_player.zip)
+
+CONTRIBUTIONS BY CONTRIBUTORS
+SN
+NAME
+STUDENT NO.
+ROLE PLAYED IN THE PROJECT
+1
+Wise Muukweli
+212088467
+I wrote and tested the JAVASCRIPT program.
+2
+Wilbard Lazarus
+217041191
+I documented the Flowchart into digital format.
+3
+Xamira Hangara
+220057478
+I formulated the Flowchart alongside Christal Cloete.
+I also formulated the Modules and compiled the documentation of the project document.
+4
+Christal Cloete
+221016171
+I formulated the Flowchart alongside Xamira Hangara. I tested the Java programs for the Music Player program alongside Wise Muukweli.
+8
+Emily Shilongo
+222093927
+I formulated the Functions and Psuedocode incuding the Mode
