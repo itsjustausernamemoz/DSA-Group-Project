@@ -22,16 +22,18 @@ Module Return Statements – This marks the end of the module and identifies the
 
 FUNCTIONS
 Functions which are used:
-Add Function: Adds a track to the linked list.
-Remove Function: Removes tracks from linked list.
-Search Function: Searches for specific track from linked list.
-Play Function: Plays one track at a time.
-Update Function: Updates the linked list.
-Repeat Function: Repeats a track from the linked list.
-MODE:
-The software is able to work in one mode day only which is audio.
+Functions which are used:
+*remove function:* Removes traxks from linked list.
+*add function:* Adds a track to the linked list.
+*play function:* Plays one track at a time.
+*repeat function:* Repeats a track from the linked list.
+*update function:* Updates  the linked list.
+*search function*: searched the linked list.
+
+ *Mode* :
+The software is able to work in one mode day only which is  audio.
 Input: tracks
-Output: track name, artist and duration.
+Output: track name,artidt and duration.
 [music_player.zip]
 [DSA521S Group Project.pdf]
 (https://github.com/itsjustausernamemoz/DSA-Group-Project/files/9824892/DSA521S.Group.Project.pdf)
@@ -64,4 +66,4 @@ I formulated the Flowchart alongside Xamira Hangara. I tested the Java programs 
 8
 Emily Shilongo
 222093927
-I formulated the Functions and Psuedocode incuding the Mode
+I formulated the Functions,algorithm and Psuedocode incuding the Mode.
