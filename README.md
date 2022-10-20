@@ -33,7 +33,7 @@ Functions which are used:
  *Mode* :
 The software is able to work in one mode day only which is  audio.
 Input: tracks
-Output: track name,artidt and duration.
+Output: track name,artist and duration.
 [music_player.zip]
 [DSA521S Group Project.pdf]
 (https://github.com/itsjustausernamemoz/DSA-Group-Project/files/9824892/DSA521S.Group.Project.pdf)
@@ -62,7 +62,9 @@ I also formulated the Modules and compiled the documentation of the project docu
 4
 Christal Cloete
 221016171
-I formulated the Flowchart alongside Xamira Hangara. I tested the Java programs for the Music Player program alongside Wise Muukweli.
+I formulated the Flowchart alongside Xamira Hangara.
+I formulated the code
+I tested the Java programs for the Music Player program alongside Wise Muukweli.
 8
 Emily Shilongo
 222093927
